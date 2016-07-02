@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1467478816 source:/home/chusti/Escritorio/C/clase_16/clase_16/input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"input.h"
+
+1467478812 /home/chusti/Escritorio/C/clase_16/clase_16/input.h
+
+1467480023 source:/home/chusti/Escritorio/C/clase_16/clase_16/main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"lib.h"
+
+1467501907 source:/home/chusti/Escritorio/C/clase_16/clase_16/lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+	"lib.h"
+
+1467479281 /home/chusti/Escritorio/C/clase_16/clase_16/lib.h
+
